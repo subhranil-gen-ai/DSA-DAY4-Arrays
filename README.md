@@ -1,10 +1,6 @@
 # DSA-DAY4-Arrays
 Search-based DSA problems using linear and binary search. Includes total occurrences, first/last index, next greater, all matching indices, and frequency-based logic.
 
-# 🔍 DSA Day 4 – Searching Algorithms
-
-This repository contains Python solutions for classic searching problems using *linear search* and *binary search*, including frequency counting, first/last position, and total occurrences. Bonus problems cover edge-case logic like next greater elements and multiple matches.
-
 # Core Problems (Search Using Linear & Binary Search)
 
 - *Linear Search*  
