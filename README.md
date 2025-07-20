@@ -7,7 +7,11 @@ Search-based DSA problems using linear and binary search. Includes total occurre
 - Binary Search
 - Count Frequency (Linear Search)
 - First and Last Position of Target (Binary Search Variant)  
-- Total Occurrences of Target 
+- Total Occurrences of Target
+- Search in a Sorted Rotated Array
+   - Using Linear Search
+   - Using Binary Search
+- Floor and Ceil of a Number in Sorted Array
    
 # 📚 Concepts Practiced
 - Linear and binary search patterns
